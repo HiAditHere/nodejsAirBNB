@@ -3,10 +3,12 @@ the steps will be shown, just replace your username and password.
 
 ### in command prompt: 
 
-cd backend \n
+cd backend
+
 nodemon server
 
 ### in another command prompt:
 
-cd frontend \n
+cd frontend
+
 npm start
